@@ -65,4 +65,3 @@ The server will launch on the port specified in your `.env` file.
 - `GET /blog/:id`: Retrieves a specific blog post by its ID.
 - `PUT /blog/:id`: Updates a blog post (authentication required).
 - `DELETE /blog/:id`: Deletes a blog post (authentication required).
-```
